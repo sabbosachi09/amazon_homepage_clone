@@ -1,14 +1,14 @@
-## About this site
+## About this site 📖
 
 This is a clone of Amazon homepage. It is for my own practice as I am a beginner. This site is mostly made with HTML and CSS with a little Javascript.
 
-## Screenshot
+## Screenshot 📷
 
 Here I have a project screenshot 
 
 ![Project Screenshot](pics/screenshot.png)
 
 
-## Authors
+## Authors 📝
 
 - [@sabbosachi09](https://www.github.com/sabbosachi09)
